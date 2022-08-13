@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/Backend.dir/main.cpp.o CMakeFiles/Backend.dir/Server.cpp.o  -o Backend -lmysqlcppconn 

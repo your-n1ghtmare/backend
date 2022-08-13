@@ -1,0 +1,3 @@
+/root/Backend/build/CMakeFiles/rebuild_cache.dir
+/root/Backend/build/CMakeFiles/Backend.dir
+/root/Backend/build/CMakeFiles/edit_cache.dir
